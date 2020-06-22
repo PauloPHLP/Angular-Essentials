@@ -5,9 +5,9 @@
 </h1>
 
 ## 🔎️ Description
-An application to test the basics of Angular..
+An application to test the basics of Angular.
 
-This project was made during the <a href="https://www.udemy.com/course/angular-essentials-angular-2-angular-4-with-typescript/">"Angular Essentials (Angular 2+ with TypeScript)"</a> course on Udemy.
+This project was made during the <a href="https://www.udemy.com/course/angular-essentials-angular-2-angular-4-with-typescript/">Angular Essentials (Angular 2+ with TypeScript)</a> course on Udemy.
 
 ## 🚀️ Technologies
 
