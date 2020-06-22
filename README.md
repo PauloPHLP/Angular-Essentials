@@ -1,7 +1,7 @@
 # 🖥️ Essentials
 
 <h1 align="center">
-  <img alt="Node.js" src=".github/logo.png" width="200px" />
+  <img src=".github/logo.png" width="200px" />
 </h1>
 
 ## 🔎️ Description
